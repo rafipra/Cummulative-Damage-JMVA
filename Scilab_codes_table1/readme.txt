@@ -1,0 +1,1 @@
+With this code it can be reproduced the results of table1, unfortunately the seed was not fixed previously but the replicability of the results can be obtained varying n for the values for which are presented in table 1
