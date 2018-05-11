@@ -1,0 +1,3 @@
+In order to generate the histograms of the figure 2, you must run first the script "DataSimulated_for_Fig2.py", this will generate the data necessary to generate the part A and B of figure 2 which will be stored in the folder "Results" (it takes a little to compute, around 30min in a intel i5-7300HQ with 8gb of ram and with a 128Gb ssd).
+Next, to plot figure 2 you must run the script "Plot_fig2.py". Lines 71 and 72 are commented, the figure is not saved. Uncomment these lines to save the figure in *.eps and *.pdf
+The values of Table 2 are summarized and printed in the screen when the script for generate the data is finished.
